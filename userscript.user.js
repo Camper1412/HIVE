@@ -4,6 +4,7 @@
 // @version      1.0.0
 // @description  Bypass shortened links instantly with LinkHive
 // @author       linkhive.lol
+// @match        *://auth.platorelay.com/*
 // @match        *://linkvertise.com/*
 // @match        *://loot-link.com/*
 // @match        *://loot-links.com/*
