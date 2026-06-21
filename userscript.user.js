@@ -182,6 +182,8 @@
 // @match        *://v.gd/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
+// @grant        GM_getValue
+// @grant        GM_setValue
 // @require      https://github.com/Camper1412/HIVE/raw/refs/heads/main/linkhive.user.js
 // @connect      linkhivepreet.vercel.app
 // @run-at       document-idle
