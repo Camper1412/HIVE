@@ -11,6 +11,7 @@
 // @match        *://lootdest.org/*
 // @match        *://lootlinks.co/*
 // @match        *://lootlinks.com/*
+// @match        *://links.lootlabs.gg/*
 // @match        *://daughablelea.com/*
 // @match        *://tonordersitye.com/*
 // @match        *://cuty.io/*
