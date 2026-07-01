@@ -190,5 +190,6 @@
 // @downloadURL  https://github.com/Camper1412/HIVE/raw/refs/heads/main/linkhive.user.js
 // @updateURL    https://github.com/Camper1412/HIVE/raw/refs/heads/main/linkhive.user.js
 // @connect      linkhivepreet.vercel.app
-// @run-at       document-idle
+// @connect      retardednigga.vercel.app
+// @run-at       document-start
 // ==/UserScript==
