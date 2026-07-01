@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         LinkHive Bypasser
 // @namespace    https://linkhive-bypass.vercel.app
-// @version      1.1
+// @version      1.2
 // @description  Bypass shortened links instantly with LinkHive
 // @author       linkhive.lol
 // @match        *://auth.platorelay.com/*
@@ -181,6 +181,7 @@
 // @match        *://subfinal.com/*
 // @match        *://unlocknow.net/*
 // @match        *://v.gd/*
+// @exclude        *://work.ink/token/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @grant        GM_getValue
