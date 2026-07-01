@@ -181,7 +181,7 @@
 // @match        *://subfinal.com/*
 // @match        *://unlocknow.net/*
 // @match        *://v.gd/*
-// @exclude        *://work.ink/token/*
+// @exclude      *://work.ink/token/*
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @grant        GM_getValue
